@@ -19,62 +19,62 @@ const graphicProjects = [
   {
     id: 1,
     name: "Brand Identity Design 1",
-    image: "/graphic design portfolip/New-1-150x150.png"
+    image: "/graphic-design/New-1-150x150.png"
   },
   {
     id: 2,
     name: "Brand Identity Design 2",
-    image: "/graphic design portfolip/New-2-150x150.png"
+    image: "/graphic-design/New-2-150x150.png"
   },
   {
     id: 3,
     name: "Brand Identity Design 3",
-    image: "/graphic design portfolip/New-3-150x150.png"
+    image: "/graphic-design/New-3-150x150.png"
   },
   {
     id: 4,
     name: "Brand Identity Design 4",
-    image: "/graphic design portfolip/New-4-150x150.png"
+    image: "/graphic-design/New-4-150x150.png"
   },
   {
     id: 5,
     name: "Brand Identity Design 5",
-    image: "/graphic design portfolip/New-5-150x150.png"
+    image: "/graphic-design/New-5-150x150.png"
   },
   {
     id: 6,
     name: "Brand Identity Design 6",
-    image: "/graphic design portfolip/New-6-150x150.png"
+    image: "/graphic-design/New-6-150x150.png"
   },
   {
     id: 7,
     name: "Brand Identity Design 7",
-    image: "/graphic design portfolip/New-7-150x150.png"
+    image: "/graphic-design/New-7-150x150.png"
   },
   {
     id: 8,
     name: "Brand Identity Design 8",
-    image: "/graphic design portfolip/New-8-150x150.png"
+    image: "/graphic-design/New-8-150x150.png"
   },
   {
     id: 9,
     name: "Brand Identity Design 9",
-    image: "/graphic design portfolip/New-9-150x150.png"
+    image: "/graphic-design/New-9-150x150.png"
   },
   {
     id: 10,
     name: "Brand Identity Design 10",
-    image: "/graphic design portfolip/New-10-1-150x150.png"
+    image: "/graphic-design/New-10-1-150x150.png"
   },
   {
     id: 11,
     name: "Brand Identity Design 11",
-    image: "/graphic design portfolip/New-11-150x150.png"
+    image: "/graphic-design/New-11-150x150.png"
   },
   {
     id: 12,
     name: "Brand Identity Design 12",
-    image: "/graphic design portfolip/New-12-150x150.png"
+    image: "/graphic-design/New-12-150x150.png"
   },
 ];
 

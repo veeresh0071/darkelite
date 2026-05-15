@@ -2,7 +2,8 @@ import { createFileRoute } from "@tanstack/react-router";
 import { motion } from "framer-motion";
 import { CtaBanner, SectionHeading } from "@/components/ServicePage";
 import { StaggerContainer, itemVariants } from "@/components/Reveal";
-import logoImage from "@/components/image1.png";
+
+const logoImage = "/image1.png";
 
 export const Route = createFileRoute("/portfolio")({
   head: () => ({

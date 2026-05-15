@@ -19,42 +19,42 @@ const uiuxProjects = [
   {
     id: 1,
     name: "Mobile App Design 1",
-    image: "/uiux prtflo/iPhone-12-Pro-Max-–-1.png"
+    image: "/uiux/iPhone-12-Pro-Max-–-1.png"
   },
   {
     id: 2,
     name: "Mobile App Design 2",
-    image: "/uiux prtflo/iPhone-12-Pro-Max-–-2.png"
+    image: "/uiux/iPhone-12-Pro-Max-–-2.png"
   },
   {
     id: 4,
     name: "Mobile App Design 4",
-    image: "/uiux prtflo/iPhone-12-Pro-Max-–-4.png"
+    image: "/uiux/iPhone-12-Pro-Max-–-4.png"
   },
   {
     id: 5,
     name: "Mobile App Design 5",
-    image: "/uiux prtflo/iPhone-12-Pro-Max-–-5.png"
+    image: "/uiux/iPhone-12-Pro-Max-–-5.png"
   },
   {
     id: 6,
     name: "Mobile App Design 6",
-    image: "/uiux prtflo/iPhone-12-Pro-Max-–-6.png"
+    image: "/uiux/iPhone-12-Pro-Max-–-6.png"
   },
   {
     id: 7,
     name: "Mobile App Design 7",
-    image: "/uiux prtflo/iPhone-12-Pro-Max-–-7.png"
+    image: "/uiux/iPhone-12-Pro-Max-–-7.png"
   },
   {
     id: 8,
     name: "Mobile App Design 8",
-    image: "/uiux prtflo/iPhone-12-Pro-Max-–-8.png"
+    image: "/uiux/iPhone-12-Pro-Max-–-8.png"
   },
   {
     id: 9,
     name: "Mobile App Design 9",
-    image: "/uiux prtflo/iPhone-12-Pro-Max-–-9.png"
+    image: "/uiux/iPhone-12-Pro-Max-–-9.png"
   },
 ];
 

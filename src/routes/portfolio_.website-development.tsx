@@ -19,73 +19,73 @@ const websiteProjects = [
   {
     id: 1,
     name: "Balaji Hydraulics",
-    image: "/website portfolio/screencapture-balajihydraulics-in-2025-03-11-16_05_48.png",
+    image: "/website-portfolio/screencapture-balajihydraulics-in-2025-03-11-16_05_48.png",
     url: "https://balajihydraulics.in"
   },
   {
     id: 2,
     name: "Fresh Fork Bite",
-    image: "/website portfolio/screencapture-freshforkbite-2025-08-08-15_35_53-scaled.png",
+    image: "/website-portfolio/screencapture-freshforkbite-2025-08-08-15_35_53-scaled.png",
     url: "https://freshforkbite.com"
   },
   {
     id: 3,
     name: "Ice Smith Machines",
-    image: "/website portfolio/screencapture-icesmithmachines-2025-03-11-16_16_31.png",
+    image: "/website-portfolio/screencapture-icesmithmachines-2025-03-11-16_16_31.png",
     url: "https://icesmithmachines.com"
   },
   {
     id: 4,
     name: "Intence System",
-    image: "/website portfolio/screencapture-intencesystem-2025-08-08-15_36_27-scaled.png",
+    image: "/website-portfolio/screencapture-intencesystem-2025-08-08-15_36_27-scaled.png",
     url: "https://intencesystem.com"
   },
   {
     id: 5,
     name: "Kailas Tejen Engineers",
-    image: "/website portfolio/screencapture-kailastejengineers-2025-03-11-16_14_37.png",
+    image: "/website-portfolio/screencapture-kailastejengineers-2025-03-11-16_14_37.png",
     url: "https://kailastejengineers.com"
   },
   {
     id: 6,
     name: "Prestige Institute Dharwad",
-    image: "/website portfolio/screencapture-prestigeinstitutedharwad-in-2025-08-08-15_37_37-scaled.png",
+    image: "/website-portfolio/screencapture-prestigeinstitutedharwad-in-2025-08-08-15_37_37-scaled.png",
     url: "https://prestigeinstitutedharwad.in"
   },
   {
     id: 7,
     name: "RMR Sports Academy",
-    image: "/website portfolio/screencapture-rmrsportsacademy-2025-08-08-15_37_01-768x2882.png",
+    image: "/website-portfolio/screencapture-rmrsportsacademy-2025-08-08-15_37_01-768x2882.png",
     url: "https://rmrsportsacademy.com"
   },
   {
     id: 8,
     name: "Sagar Techenc",
-    image: "/website portfolio/screencapture-sagartechenc-2025-08-08-15_35_26-768x3198.png",
+    image: "/website-portfolio/screencapture-sagartechenc-2025-08-08-15_35_26-768x3198.png",
     url: "https://sagartechenc.com"
   },
   {
     id: 9,
     name: "Shiva Chidambara",
-    image: "/website portfolio/screencapture-shivachidambara-2025-08-08-15_38_04-1065x2048.png",
+    image: "/website-portfolio/screencapture-shivachidambara-2025-08-08-15_38_04-1065x2048.png",
     url: "https://shivachidambara.com"
   },
   {
     id: 10,
     name: "Shivraj Calibration",
-    image: "/website portfolio/screencapture-shivrajcalibration-2025-03-11-16_18_58.png",
+    image: "/website-portfolio/screencapture-shivrajcalibration-2025-03-11-16_18_58.png",
     url: "https://shivrajcalibration.com"
   },
   {
     id: 11,
     name: "Tool Holders BGM",
-    image: "/website portfolio/screencapture-toolholdersbgm-2025-03-25-15_56_04.png",
+    image: "/website-portfolio/screencapture-toolholdersbgm-2025-03-25-15_56_04.png",
     url: "https://toolholdersbgm.com"
   },
   {
     id: 12,
     name: "Venus Hydraulics",
-    image: "/website portfolio/screencapture-venushydraulics-2025-08-08-15_34_51-scaled.png",
+    image: "/website-portfolio/screencapture-venushydraulics-2025-08-08-15_34_51-scaled.png",
     url: "https://venushydraulics.com"
   },
 ];

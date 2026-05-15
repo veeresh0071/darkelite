@@ -5,46 +5,41 @@ import { PageHero } from "@/components/PageHero";
 import { Reveal, StaggerContainer, itemVariants } from "@/components/Reveal";
 import { CtaBanner, SectionHeading } from "@/components/ServicePage";
 
-// Import client logos
-import balaji1 from "../../clients/balaji1.png";
-import companyLogo from "../../clients/company_logo_Png.png";
-import finalLogo from "../../clients/Final-Logo.png";
-import layer1 from "../../clients/Layer-1.png";
-import new2 from "../../clients/New-2.png";
-import new7 from "../../clients/New-7.png";
-import newProject1 from "../../clients/New-Project-1.png";
-import newProject11 from "../../clients/New-Project-11.png";
-import newProject12 from "../../clients/New-Project-12.png";
-import newProject16 from "../../clients/New-Project-16.png";
-import newProject17 from "../../clients/New-Project-17.png";
-import newProject19 from "../../clients/New-Project-19.png";
-import newProject2 from "../../clients/New-Project-2.png";
-import newProject20 from "../../clients/New-Project-20.png";
-import newProject26 from "../../clients/New-Project-26-1.png";
-import newProject3 from "../../clients/New-Project-3.png";
-import newProject4 from "../../clients/New-Project-4.png";
-import newProject5 from "../../clients/New-Project-5.png";
-import newProject6 from "../../clients/New-Project-6.png";
-import newProject7 from "../../clients/New-Project-7.png";
-import newProject8 from "../../clients/New-Project-8.png";
-import newProject9 from "../../clients/New-Project-9.png";
-import newProject from "../../clients/New-Project.png";
-import newProject21 from "../../clients/New-Project21.png";
-import newProject22 from "../../clients/New-Project22.png";
-import newProject25 from "../../clients/New-Project25.png";
-import newProject27 from "../../clients/New-Project27.png";
-import newProject29 from "../../clients/New-Project29.png";
-import newProject30 from "../../clients/New-Project30.png";
-import newProject31 from "../../clients/New-Project31.png";
-import newProject66 from "../../clients/New-Project66.png";
-import newProject67 from "../../clients/New-Project67.png";
-import renukaGroup from "../../clients/Renuka-Group-Logo-1.png";
-
+// Client logos from public folder
 const clientLogos = [
-  balaji1, companyLogo, finalLogo, layer1, new2, new7, newProject1, newProject11, newProject12, newProject16, newProject17,
-  newProject19, newProject2, newProject20, newProject26, newProject3, newProject4, newProject5, newProject6, newProject7,
-  newProject8, newProject9, newProject, newProject21, newProject22, newProject25, newProject27, newProject29, newProject30,
-  newProject31, newProject66, newProject67, renukaGroup
+  "/clients/balaji1.png",
+  "/clients/company_logo_Png.png",
+  "/clients/Final-Logo.png",
+  "/clients/Layer-1.png",
+  "/clients/New-2.png",
+  "/clients/New-7.png",
+  "/clients/New-Project-1.png",
+  "/clients/New-Project-11.png",
+  "/clients/New-Project-12.png",
+  "/clients/New-Project-16.png",
+  "/clients/New-Project-17.png",
+  "/clients/New-Project-19.png",
+  "/clients/New-Project-2.png",
+  "/clients/New-Project-20.png",
+  "/clients/New-Project-26-1.png",
+  "/clients/New-Project-3.png",
+  "/clients/New-Project-4.png",
+  "/clients/New-Project-5.png",
+  "/clients/New-Project-6.png",
+  "/clients/New-Project-7.png",
+  "/clients/New-Project-8.png",
+  "/clients/New-Project-9.png",
+  "/clients/New-Project.png",
+  "/clients/New-Project21.png",
+  "/clients/New-Project22.png",
+  "/clients/New-Project25.png",
+  "/clients/New-Project27.png",
+  "/clients/New-Project29.png",
+  "/clients/New-Project30.png",
+  "/clients/New-Project31.png",
+  "/clients/New-Project66.png",
+  "/clients/New-Project67.png",
+  "/clients/Renuka-Group-Logo-1.png"
 ];
 
 export const Route = createFileRoute("/about")({
